@@ -2,7 +2,7 @@
 
 ### Name: Jack Savio
 
-### CSCI 3656: Final Project iPYNB Code File
+### CSCI 3656: Final Project
 
 ### RESTART KERNEL AND RUN ALL CELLS AT EVERY INSTANCE
 
