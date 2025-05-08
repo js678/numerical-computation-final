@@ -13,3 +13,5 @@ This repository consists of a iPYNB file used for data manipulation and CSV file
 3. There are some other variations that have major impacts on ADP that are strictly non-data base. These variations will be noted in the paper and adjusted in more creative ways.
 
 In the iPYNB files, I will be making small comments that describe the thought process behind why each numerical computation technique would be used.
+
+Video link is here: https://o365coloradoedu-my.sharepoint.com/:v:/r/personal/jasa6380_colorado_edu/Documents/Attachments/final_project_numerical_computation.mp4?csf=1&web=1&e=lZaxv2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
